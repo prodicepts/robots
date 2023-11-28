@@ -1,0 +1,10 @@
+.searchcontainer {
+    /* border: 2px solid red; */
+    height: 10vh;
+    padding: 5px;
+}
+.textbox {
+    width: 50%;
+    height: 7vh;
+    padding: 15px;
+}
